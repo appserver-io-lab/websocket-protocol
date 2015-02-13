@@ -16,7 +16,7 @@
  * @author    Bernhard Wick <b.wick@techdivision.com>
  * @copyright 2015 TechDivision GmbH <info@appserver.io>
  * @license   http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
- * @link      http://github.com/appserver-io/appserver
+ * @link      http://github.com/appserver-io-lab/websocket-protocol
  * @link      http://www.appserver.io
  */
 

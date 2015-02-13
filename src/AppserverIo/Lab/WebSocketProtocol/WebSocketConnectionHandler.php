@@ -14,7 +14,7 @@
  * @author    Tim Wagner <tw@appserver.io>
  * @copyright 2015 TechDivision GmbH <info@appserver.io>
  * @license   http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
- * @link      https://github.com/appserver-io/appserver
+ * @link      https://github.com/appserver-io-lab/websocket-protocol
  * @link      http://www.appserver.io
  * @link      http://ca.php.net/manual/en/ref.http.php
  * @link      http://dev.w3.org/html5/websockets
@@ -44,7 +44,7 @@ use Ratchet\WebSocket\WsServerInterface;
  * @author    Tim Wagner <tw@appserver.io>
  * @copyright 2015 TechDivision GmbH <info@appserver.io>
  * @license   http://opensource.org/licenses/osl-3.0.php Open Software License (OSL 3.0)
- * @link      https://github.com/appserver-io/appserver
+ * @link      https://github.com/appserver-io-lab/websocket-protocol
  * @link      http://www.appserver.io
  * @link      http://ca.php.net/manual/en/ref.http.php
  * @link      http://dev.w3.org/html5/websockets
